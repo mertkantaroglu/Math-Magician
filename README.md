@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 
-# Leaderboard Project
+# Math Magician Project
 
 # 📗 Table of Contents
 
-- [Leaderboard Project](#leaderboard-project)
+- [Math Magician Project](#math-magician-project)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Leaderboard Project ](#-leaderboard-project-)
+- [📖 Math Magician Project ](#-math-magician-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -23,9 +23,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Leaderboard Project <a name="about-project"></a>
+# 📖 Math Magician Project <a name="about-project"></a>
 
-**This is the Leaderboard Project in order to show what we have learned so far at HTML, CSS and JS.**
+**This is the Math Magician Project in order to show what we have learned so far at React.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,9 +41,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JS</li>
+    <li>React</li>
   </ul>
 </details>
 
@@ -63,11 +61,11 @@ In order to run this project you need a Chrome, Safari or Mozilla browser
 
 ### Setup <a name="setup"></a>
 
-Clone this repository to your desired folder: https://github.com/mertkantaroglu/Leaderboard-Project.git
+Clone this repository to your desired folder: https://github.com/mertkantaroglu/Math-Magician.git
 
 ### Install <a name="install"></a>
 
-git clone https://github.com/mertkantaroglu/Leaderboard-Project.git
+git clone https://github.com/mertkantaroglu/Math-Magician.git
 
 ### Usage <a name="usage"></a>
 
