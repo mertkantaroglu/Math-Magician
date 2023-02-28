@@ -1,6 +1,3 @@
-import React from 'react';
-import '../App.css';
-
 function Result() {
   return (
     <div className="result">

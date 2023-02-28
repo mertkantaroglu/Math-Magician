@@ -41,8 +41,10 @@
 .calculator {
   display: flex;
   align-items: center;
-  flex-direction: column;
-  margin-top: 10rem;
+  flex-direction: row;
+  margin: 10rem auto auto auto;
+  flex-wrap: wrap;
+  width: 300px;
 }
 
 .result {
