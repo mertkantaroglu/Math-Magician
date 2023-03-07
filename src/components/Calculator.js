@@ -1,3 +1,4 @@
+import '../App.css';
 import { useState } from 'react';
 import calculate from '../logic/calculate';
 
@@ -19,25 +20,67 @@ function Calculator() {
         {operation}
         {next}
       </div>
-      <button type="button" className="button" onClick={onClickHandler}>AC</button>
-      <button type="button" className="button" onClick={onClickHandler}>+/-</button>
-      <button type="button" className="button" onClick={onClickHandler}>%</button>
-      <button type="button" className="operator" onClick={onClickHandler}>÷</button>
-      <button type="button" className="button" onClick={onClickHandler}>7</button>
-      <button type="button" className="button" onClick={onClickHandler}>8</button>
-      <button type="button" className="button" onClick={onClickHandler}>9</button>
-      <button type="button" className="operator" onClick={onClickHandler}>x</button>
-      <button type="button" className="button" onClick={onClickHandler}>4</button>
-      <button type="button" className="button" onClick={onClickHandler}>5</button>
-      <button type="button" className="button" onClick={onClickHandler}>6</button>
-      <button type="button" className="operator" onClick={onClickHandler}>-</button>
-      <button type="button" className="button" onClick={onClickHandler}>1</button>
-      <button type="button" className="button" onClick={onClickHandler}>2</button>
-      <button type="button" className="button" onClick={onClickHandler}>3</button>
-      <button type="button" className="operator" onClick={onClickHandler}>+</button>
-      <button type="button" className="button btn-zero" onClick={onClickHandler}>0</button>
-      <button type="button" className="button" onClick={onClickHandler}>.</button>
-      <button type="button" className="operator" onClick={onClickHandler}>=</button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        AC
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        +/-
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        %
+      </button>
+      <button type="button" className="operator" onClick={onClickHandler}>
+        ÷
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        7
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        8
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        9
+      </button>
+      <button type="button" className="operator" onClick={onClickHandler}>
+        x
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        4
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        5
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        6
+      </button>
+      <button type="button" className="operator" onClick={onClickHandler}>
+        -
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        1
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        2
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        3
+      </button>
+      <button type="button" className="operator" onClick={onClickHandler}>
+        +
+      </button>
+      <button
+        type="button"
+        className="button btn-zero"
+        onClick={onClickHandler}
+      >
+        0
+      </button>
+      <button type="button" className="button" onClick={onClickHandler}>
+        .
+      </button>
+      <button type="button" className="operator" onClick={onClickHandler}>
+        =
+      </button>
     </div>
   );
 }

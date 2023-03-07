@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 1rem;
 }
 
 .App-logo {
@@ -42,10 +47,10 @@
   display: flex;
   align-items: center;
   flex-direction: row;
-  margin: 10rem auto auto auto;
+  margin: 1rem auto auto auto;
   flex-wrap: wrap;
-  width: 300px;
-  box-shadow: 10px 10px 10px 5px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  box-shadow: 0 0 10px 10px rgb(0 0 0 / 25%);
 }
 
 .result {
@@ -53,16 +58,16 @@
   color: #fff;
   justify-content: flex-end;
   background-color: rgba(150, 150, 150);
-  width: 300px;
-  height: 50px;
+  width: 400px;
+  height: 60px;
   align-items: center;
-  padding-right: 0.5rem;
+  padding-right: 1rem;
   font-size: 24px;
 }
 
 button {
-  width: 75px;
-  height: 50px;
+  width: 100px;
+  height: 60px;
   border: 1px solid lightgrey;
 }
 
@@ -71,5 +76,39 @@ button {
 }
 
 .btn-zero {
-  width: 150px;
+  width: 200px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 1rem;
+}
+
+.navContainer {
+  flex-direction: row;
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  font-size: 18px;
+}
+
+.home {
+  width: 90%;
+  margin: 10% 5%;
+  font-size: 18px;
+}
+
+.calculator-page {
+  font-size: 24px;
+  margin-left: 1rem;
+}
+
+.quote {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  margin: 10rem auto;
+  font-size: 28px;
 }
