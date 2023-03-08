@@ -29,6 +29,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/calculatorpage" element={<CalculatorPage />} />
         <Route path="/quote" element={<Quote />} />
+        <Route path="*" element={<h1>Page Not Found!</h1>} />
       </Routes>
     </>
   );

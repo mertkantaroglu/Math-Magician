@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should match with App snapshot 1`] = `
+Array [
+  <div
+    className="app"
+  >
+    <nav
+      className="navbar"
+    >
+      <h1>
+        Math Magicians
+      </h1>
+      <ul
+        className="navContainer"
+      >
+        <li>
+          <a
+            href="/"
+            onClick={[Function]}
+          >
+            Home
+          </a>
+        </li>
+        <span>
+          |
+        </span>
+        <li>
+          <a
+            href="/calculatorpage"
+            onClick={[Function]}
+          >
+            Calculator
+          </a>
+        </li>
+        <span>
+          |
+        </span>
+        <li>
+          <a
+            href="/quote"
+            onClick={[Function]}
+          >
+            Quote
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>,
+  <div>
+    <section
+      className="home"
+    >
+      <h2>
+        Welcome to our page!
+      </h2>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius ratione ex tempore error veniam voluptas consectetur ullam iste. Voluptatem accusamus harum numquam atque consectetur saepe architecto libero cum, totam dicta? Iste aspernatur rem quia. Voluptate iure magni minus animi assumenda. Ut laborum placeat nobis consequuntur qui ea ab assumenda voluptatem!Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae qui ipsum magni impedit enim. Officiis iste saepe, ipsam minus veritatis architecto?
+      </p>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius ratione ex tempore error veniam voluptas consectetur ullam iste. Voluptatem accusamus harum numquam atque consectetur saepe architecto libero cum, totam dicta? Iste aspernatur rem quia. Voluptate iure magni minus animi assumenda. Ut laborum placeat nobis consequuntur qui ea ab assumenda voluptatem!Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      </p>
+    </section>
+  </div>,
+]
+`;

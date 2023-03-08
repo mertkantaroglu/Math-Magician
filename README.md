@@ -16,8 +16,10 @@
     - [Setup ](#setup-)
     - [Install ](#install-)
     - [Usage ](#usage-)
+    - [Run tests ](#run-tests-)
   - [👥 Authors ](#-authors-)
     - [👤 **Mert Kantaroglu**](#-mert-kantaroglu)
+    - [👤 **Josue Rushanika**](#-josue-rushanika)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -25,7 +27,7 @@
 
 # 📖 Math Magician Project <a name="about-project"></a>
 
-**This is the Math Magician Project in order to show what we have learned so far at React.**
+**Math Magician is a SPA project which you can make single calculations and reading a random math related quote**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,14 +35,20 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **made with use of github workflow**
-- **made with use of linter checkers**
+- **Homepage**
+- **Calculator**
+- **Quote**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <details>
   <summary>Client</summary>
   <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+    <li>Git</li>
+    <li>Jest</li>
     <li>React</li>
   </ul>
 </details>
@@ -61,15 +69,39 @@ In order to run this project you need a Chrome, Safari or Mozilla browser
 
 ### Setup <a name="setup"></a>
 
-Clone this repository to your desired folder: https://github.com/mertkantaroglu/Math-Magician.git
+Clone this repository to your desired folder:
+
+Example commands:
+
+```sh
+  cd <desired-folder>
+  git clone https://github.com/mertkantaroglu/Math-Magician.git
+  cd math-magicians
+```
 
 ### Install <a name="install"></a>
 
-git clone https://github.com/mertkantaroglu/Math-Magician.git
+Install this project with:
+
+```sh
+  npm install
+```
 
 ### Usage <a name="usage"></a>
 
-To run the project, execute the following command: Click on Live server option in your IDE
+To run the project, execute the following command:
+
+```sh
+  npm run start
+```
+
+### Run tests <a name="test"></a>
+
+To run tests, run the following command:
+
+```sh
+npm run test
+```
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -78,6 +110,12 @@ To run the project, execute the following command: Click on Live server option i
 - GitHub: [@mertkantaroglu](https://github.com/mertkantaroglu/)
 - Twitter: [@aranelluinwe](https://twitter.com/aranelluinwe)
 - LinkedIn: [mertkantaroglu](https://www.linkedin.com/in/mert-kantaroglu/)
+
+### 👤 **Josue Rushanika**
+
+- GitHub: [@josuerushanika](https://github.com/josuerushanika)
+- Twitter: [@josuerushanika](https://twitter.com/josuerushanika)
+- LinkedIn: [josue-rushanika](https://www.linkedin.com/in/josue-rushanika-336049b3/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
