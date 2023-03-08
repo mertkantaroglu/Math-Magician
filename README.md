@@ -35,9 +35,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Homepage]**
-- **[Calculator]**
-- **[Quote]**
+- **Homepage**
+- **Calculator**
+- **Quote**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,19 +69,39 @@ In order to run this project you need a Chrome, Safari or Mozilla browser
 
 ### Setup <a name="setup"></a>
 
-Clone this repository to your desired folder: https://github.com/mertkantaroglu/Math-Magician.git
+Clone this repository to your desired folder:
+
+Example commands:
+
+```sh
+  cd <desired-folder>
+  git clone https://github.com/mertkantaroglu/Math-Magician.git
+  cd math-magicians
+```
 
 ### Install <a name="install"></a>
 
-git clone https://github.com/mertkantaroglu/Math-Magician.git
+Install this project with:
+
+```sh
+  npm install
+```
 
 ### Usage <a name="usage"></a>
 
-To run the project open the index.html file in your Web Browser.
+To run the project, execute the following command:
+
+```sh
+  npm run start
+```
 
 ### Run tests <a name="test"></a>
-To run this project use $ npm run test
-in your terminal
+
+To run tests, run the following command:
+
+```sh
+npm run test
+```
 
 ## 👥 Authors <a name="authors"></a>
 
