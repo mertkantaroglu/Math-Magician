@@ -7,5 +7,5 @@ describe('Calculator', () => {
       <Calculator />,
     );
     expect(tree).toMatchSnapshot();
-  })
-})
+  });
+});

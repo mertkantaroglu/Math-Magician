@@ -7,5 +7,5 @@ describe('Home', () => {
       <Home />,
     );
     expect(tree).toMatchSnapshot();
-  })
-})
+  });
+});
