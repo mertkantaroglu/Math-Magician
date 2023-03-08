@@ -93,9 +93,9 @@ in your terminal
 
 ### 👤 **Josue Rushanika**
 
-- GitHub: [@josuerushanika] (https://github.com/josuerushanika)
-- Twitter: [@josuerushanika] (https://twitter.com/josuerushanika)
-- LinkedIn: [josue-rushanika] (https://www.linkedin.com/in/josue-rushanika-336049b3/)
+- GitHub: [@josuerushanika](https://github.com/josuerushanika)
+- Twitter: [@josuerushanika](https://twitter.com/josuerushanika)
+- LinkedIn: [josue-rushanika](https://www.linkedin.com/in/josue-rushanika-336049b3/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
